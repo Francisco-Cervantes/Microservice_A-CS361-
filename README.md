@@ -36,11 +36,3 @@
 
 
 ![UML Diagram](UML-Sequence-Design.png)
-
-# Mitigation Plan
-- For which teammate did you implement “Microservice A”?  -Suhrob Hasanov 
-- What is the current status of the microservice? Hopefully, it’s done! -Its done 
-- How is your teammate going to access your microservice? They can access it with this github link https://github.com/Francisco-Cervantes/Microservice_A-CS361-, and the program or microservice can be accessed remotely with a url. 
-- If your teammate cannot access/call YOUR microservice, what should they do? Can you be available to help them? What’s your availability? They can contact me through discord to discuss any issues that may arise.
-- If your teammate cannot access/call your microservice, by when do they need to tell you provide a specific date to ensure they have a clear deadline. They can contact be before May 25 to work anything out. 
-- Is there anything else your teammate needs to know? They should install the node dependencies before attempting to run the program.
